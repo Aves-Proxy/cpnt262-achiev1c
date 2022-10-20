@@ -4,7 +4,7 @@
 Katherine Kapiga
 
 ## Attributions
-Heavily-referenced freecodecamp's [Chart.js tutorial](https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/) to build the line chart. Further utilized chart.js documentation on [Line Chart]](https://www.chartjs.org/docs/latest/charts/line.html) and [Elements](https://www.chartjs.org/docs/latest/configuration/elements.html#line-configuration) to figure out the workings of the plugin further.
+Heavily-referenced freecodecamp's [Chart.js tutorial](https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/) to build the line chart. Further utilized chart.js documentation on [Line Chart](https://www.chartjs.org/docs/latest/charts/line.html) and [Elements](https://www.chartjs.org/docs/latest/configuration/elements.html#line-configuration) to figure out the workings of the plugin further.
 
 Data for global temperature was retrieved from [NASA's Global Climate Change website](https://climate.nasa.gov/vital-signs/global-temperature/).
 
